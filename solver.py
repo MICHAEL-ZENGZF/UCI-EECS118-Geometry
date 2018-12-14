@@ -6,7 +6,6 @@ import instance
 
 
 
-
 class InvalidPointException(Exception):
     pass
 class InvalidValueException(Exception):

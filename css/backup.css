@@ -1,0 +1,379 @@
+div.img {
+    border: 1px  #ccc;
+    top:17%;
+    left:5%;
+    position:absolute;
+}
+
+div.img:hover {
+    border: 1px  #777;
+}
+
+div.img img {
+    width: 1200px;
+    height: auto;
+}
+
+angle.Alpha input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:10%;
+    right: 450px;
+}
+
+angle.Beta input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:10%;
+    right:250px;
+}
+
+angle.Gamma input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:10%;
+    right: 50px;
+}
+
+vertice.C input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:15%;
+    right: 450px;
+}
+
+vertice.E input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:15%;
+    right: 250px;
+}
+
+vertice.D input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:15%;
+    right:50px;
+}
+
+intersection.F input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right: 450px;
+}
+
+intersection.I input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right: 300;
+}
+
+intersection.H input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right: 150;
+}
+
+intersection.G input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right: 10;
+}
+
+circle.O input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:25%;
+    right: 350;
+}
+
+circle.R input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:25%;
+    right: 100;
+
+}
+
+line.CE input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:30%;
+    right: 450px;
+}
+
+line.ED input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:30%;
+    right: 250;
+}
+
+line.DC input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:30%;
+    right: 50;
+}
+
+lineseg.CF input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right: 450;
+}
+
+lineseg.FE input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right: 300;
+}
+
+lineseg.EI input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right: 150;
+}
+
+lineseg.IH input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right: 10;
+}
+
+lineseg.HD input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:45%;
+    right: 400;
+}
+
+lineseg.DG input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:45%;
+    right: 230;
+}
+
+lineseg.GC input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:45%;
+    right: 60;
+}
+
+linesego.EH input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:50%;
+    right: 300;
+}
+
+linesego.ID input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:50%;
+    right: 100;
+}
+
+arc.ARC1 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:55%;
+    right: 400;
+}
+
+arc.ARC2 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:55%;
+    right: 230;
+}
+
+arc.ARC3 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:55%;
+    right: 60;
+}
+
+arc.ARC4 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:60%;
+    right: 300;
+}
+
+arc.ARC5 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:60%;
+    right: 100;
+}
+
+lineseg.CF input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right: 450;
+}
+
+lineseg.FE input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right: 300;
+}
+
+lineseg.EI input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right: 150;
+}
+
+areat.triangle input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right: 10;
+}

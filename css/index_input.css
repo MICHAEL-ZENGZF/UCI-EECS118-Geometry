@@ -1,0 +1,464 @@
+div.img {
+    border: 1px  #ccc;
+    top:15%;
+    left:1%;
+    position:absolute;
+}
+
+div.img:hover {
+    border: 1px  #777;
+}
+
+div.img img {
+    width: 1300px;
+    height: auto;
+}
+
+button{
+    width:112px;
+    height: 42px;
+    background-color:#d93c3c;
+    color:#fff;
+    border:none;
+    border-top-right-radius:5px;
+    border-bottom-right-radius:5px;
+    border-top-left-radius:5px;
+    border-bottom-left-radius:5px;
+    position: absolute;
+    font-size:16px;
+    font-weight: bold;
+    top:800px;
+    right:60px;
+}
+
+value.Alpha input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:10%;
+    right:450px;
+}
+
+value.Beta input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:10%;
+    right:250px;
+}
+
+value.Gamma input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:10%;
+    right:50px;
+}
+
+value.C input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:15%;
+    right:450px;
+}
+
+value.E input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:15%;
+    right:250px;
+}
+
+value.D input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:15%;
+    right:50px;
+}
+
+value.F input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right:450px;
+}
+
+value.I input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right:300px;
+}
+
+value.H input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right:150px;
+}
+
+value.G input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right:10px;
+}
+
+value.A input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:25%;
+    right:350px;
+}
+
+value.R input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:25%;
+    right:100px;
+    
+}
+
+value.CE input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:30%;
+    right:450px;
+}
+
+value.ED input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:30%;
+    right:250px;
+}
+
+value.DC input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:30%;
+    right:50px;
+}
+
+value.CF input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right:450px;
+}
+
+value.FE input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right:300px;
+}
+
+value.EI input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right:150px;
+}
+
+value.IH input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right:10px;
+}
+
+value.HD input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:45%;
+    right:400px;
+}
+
+value.DG input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:45%;
+    right:230px;
+}
+
+value.GC input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:45%;
+    right:60px;
+}
+
+value.EH input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:50%;
+    right:300px;
+}
+
+value.ID input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:50%;
+    right:100px;
+}
+
+value.ARC1 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:55%;
+    right:400px;
+}
+
+value.ARC2 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:55%;
+    right:230px;
+}
+
+value.ARC3 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:55%;
+    right:60px;
+}
+
+value.ARC4 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:60%;
+    right:300px;
+}
+
+value.ARC5 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:60%;
+    right:100px;
+}
+
+value.trianglearea input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:65%;
+    right:450px;
+}
+
+value.circlearea input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:65%;
+    right:300px;
+}
+
+value.S1 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:65%;
+    right:150px;
+}
+
+value.S2 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:65%;
+    right:10px;
+}
+
+value.S3 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:70%;
+    right:450px;
+}
+
+value.S4 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:70%;
+    right:300px;
+}
+
+value.S5 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:70%;
+    right:150px;
+}
+
+value.S6 input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:70%;
+    right:10px;
+}
+
+value.trianglepmeter input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:75%;
+    right:350px;
+}
+
+value.circlepmeter input{
+    width: 100px;
+    height: 42px;
+    border:2px solid black;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:75%;
+    right:100px;
+
+}
+

@@ -1,0 +1,468 @@
+value.Alpha label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:10%;
+    right:550px;
+    color: red;
+}
+
+value.Beta label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:10%;
+    right:350px;
+    color: red;
+}
+
+value.Gamma label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:10%;
+    right:150px;
+    color: red;
+}
+
+value.C label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:15%;
+    right:510px;
+    color: red;
+}
+
+value.E label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:15%;
+    right:310px;
+    color: red;
+}
+
+value.D label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:15%;
+    right:110px;
+    color: red;
+}
+
+value.F label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right:510px;
+    color: red;
+}
+
+value.I label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right:360px;
+    color: red;
+}
+
+value.H label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right:210px;
+    color: red;
+}
+
+value.G label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:20%;
+    right:70px;
+    color: red;
+}
+
+value.A label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:25%;
+    right:410px;
+    color: red;
+}
+
+value.R label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:25%;
+    right:160px;
+    color: red;
+}
+
+value.CE label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:30%;
+    right:540px;
+    color: red;
+}
+
+value.ED label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:30%;
+    right:340px;
+    color: red;
+}
+
+value.DC label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:30%;
+    right:140px;
+    color: red;
+}
+
+value.CF label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right:520px;
+    color: red;
+}
+
+value.FE label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right:370px;
+    color: red;
+}
+
+value.EI label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right:220px;
+    color: red;
+}
+
+value.IH label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:40%;
+    right:80px;
+    color: red;
+}
+
+value.HD label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:45%;
+    right:480px;
+    color: red;
+}
+
+value.DG label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:45%;
+    right:310px;
+    color: red;
+}
+
+value.GC label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:45%;
+    right:140px;
+    color: red;
+}
+
+value.EH label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:50%;
+    right:380px;
+    color: red;
+}
+
+value.ID label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:50%;
+    right:180px;
+    color: red;
+}
+
+value.ARC1 label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:55%;
+    right:500px;
+    color: red;
+}
+
+value.ARC2 label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:55%;
+    right:330px;
+    color: red;
+}
+
+value.ARC3 label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:55%;
+    right:160px;
+    color: red;
+}
+
+value.ARC4 label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:60%;
+    right:400px;
+    color: red;
+}
+
+value.ARC5 label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:60%;
+    right:200px;
+    color: red;
+}
+
+value.trianglearea label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:65%;
+    right:560px;
+    color: red;
+}
+
+value.circlearea label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:65%;
+    right:390px;
+    color: red;
+}
+
+value.S1 label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:65%;
+    right:220px;
+    color: red;
+}
+
+value.S2 label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:65%;
+    right:80px;
+    color: red;
+}
+
+value.S3 label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:70%;
+    right:520px;
+    color: red;
+}
+
+value.S4 label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:70%;
+    right:380px;
+    color: red;
+}
+
+value.S5 label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:70%;
+    right:220px;
+    color: red;
+}
+
+value.S6 label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:70%;
+    right:80px;
+    color: red;
+}
+
+value.trianglepmeter label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:75%;
+    right:480px;
+    color: red;
+}
+
+value.circlepmeter label{
+    width: 60px;
+    height: 42px;
+    border:2px;
+    font: bold 15px italic;
+    font-style:italic;
+    position:absolute;
+    top:75%;
+    right:230px;
+    color: red;
+
+}
